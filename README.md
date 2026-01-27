@@ -20,8 +20,7 @@ My focus is on clean code, strong backend logic, and understanding ML models dee
 ---
 
 ## 🌐 Socials:
-- LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- Email: yourmail@gmail.com  
+- LinkedIn: https://linkedin.com/in/khushi-priyadarshni-v9304603643/ 
 - GitHub: https://github.com/khushipriyadarshni  
 
 ---
