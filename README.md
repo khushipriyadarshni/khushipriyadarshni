@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khushi Priyadarshni</h1>
-<h3 align="center">🐍 Python Developer | Machine Learning Engineer</h3>
+<h3 align="center">💻 Frontend Developer | Aspiring ML Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750035-3c7a7c4f-7b13-4a34-9a7a-ec8c9c0b1d9c.gif"/>
 
-- 🔭 Currently working on **Machine Learning & Backend Projects**
-- 🌱 Learning **Deep Learning, Cloud & System Design**
-- 💬 Ask me about **Python, ML, FastAPI**
+- 🔭 Currently working on **React-based UI components & web projects**
+- 🌱 Learning **Machine Learning, Backend Development & Cloud**
+- 💬 Ask me about **React, JavaScript, and Python basics**
 - 📫 Reach me at **khushikashyap0053@gmail.com**
+
 
 ---
 
